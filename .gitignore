@@ -155,3 +155,5 @@ cython_debug/
 data/*
 
 !data/data_documentation.txt
+!data/toy_dataset/
+!data/toy_dataset/*
